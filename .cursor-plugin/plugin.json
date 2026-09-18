@@ -1,0 +1,24 @@
+{
+  "name": "gettranscribe",
+  "version": "1.0.0",
+  "description": "Transcribe public video URLs and organize, retrieve, and analyze transcripts with GetTranscribe.",
+  "author": {
+    "name": "Eme Growth & Development",
+    "email": "daniel@e-me.co"
+  },
+  "homepage": "https://gettranscribe.ai",
+  "repository": "https://github.com/get-transcribe/gettranscribe-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "transcription",
+    "video",
+    "youtube",
+    "instagram",
+    "tiktok",
+    "facebook",
+    "mcp"
+  ],
+  "logo": "assets/logo-512.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}

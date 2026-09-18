@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "gettranscribe": {
+      "url": "https://mcp.gettranscribe.ai/mcp"
+    }
+  }
+}
